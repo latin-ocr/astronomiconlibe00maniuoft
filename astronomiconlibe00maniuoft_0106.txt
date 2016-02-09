@@ -1,0 +1,17 @@
+SIGLA
+
+G = Codex olim (jemblacensis nunc Bruxellensis Bibl. Reg. 10012,
+saec. x1
+
+(5¹ = prima manus in G : (52 manus altera aequaeua
+L = Codex Lipsiensis Bibl. Paulin. 1465, saec. xi
+
+L¹ = prima manus in L : L² = manus altera aequaeua
+M= Codex Matritensis Bibl. Nat. M. 31, saec, xv
+
+Ven. =-· Lectiones Codicis Veneti deperditi (saec. xi) ex notis manu—
+scriptis Bentleii excerptae
+
+codd. = consensus librorum GLM
+dett. = codices deterioris notae
+
